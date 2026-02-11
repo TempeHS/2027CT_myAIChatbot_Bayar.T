@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+I am building an AI chatbot to help assist me when im making code.
 
 ## Getting Started
 
