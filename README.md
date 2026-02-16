@@ -1,10 +1,10 @@
 # Kachingling
 
-Simple overview of use/purpose.
+I am building an AI chatbot to help assist me when im making code.
 
 ## Description
 
-I am building an AI chatbot to help assist me when im making code.
+The chatbot will talk to me and reply to my questions. It will hold a conversation and ask me questions.
 
 ## Getting Started
 
